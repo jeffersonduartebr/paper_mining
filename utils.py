@@ -4,7 +4,7 @@ from langdetect import detect
 from transformers import pipeline
 from datetime import datetime
 import time
-
+import os
 # ----------------------------
 # Funções utilitárias
 # ----------------------------
